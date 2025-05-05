@@ -11,6 +11,11 @@ Welcome to my Power BI project portfolio. Below are two end-to-end dashboards th
 ### 📌 Description
 An interactive, multi-page dashboard built on the AdventureWorks dataset to provide insights across sales performance, customer behavior, and logistics operations. Designed to support executive-level decision-making.
 
+### 🔍 Key Features
+- **Overview Page**: KPIs such as Total Sales, Orders, Average Order Value, YoY Growth, and Customer Count
+- **Customer Insights**: Online vs In-Person analysis
+- **Logistics Dashboard**: Freight cost
+
 ---
 
 ## 2️⃣ Spotify Top 1000 Listener Trends
