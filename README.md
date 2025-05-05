@@ -31,7 +31,6 @@ This dashboard analyzes personal Spotify streaming behavior using the top 1000 m
 ## 🛠️ Tools & Skills Used
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
-- Data modeling (star schema design)
 - Power Query (M)
 
 ---
