@@ -1,4 +1,4 @@
-## 1️⃣ AdventureWorks Sales & Logistics Analysis
+## AdventureWorks Sales & Logistics Analysis
 
 ### 🧾 File: `AdventureWork_Analysis.pbix`
 
